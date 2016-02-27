@@ -1,0 +1,34 @@
+_repo: The-Narrative-of-Sojourner-Truth_1674
+creator:
+  authors:
+  - agent_name: Gilbert, Olive
+    gutenberg_agent_id: '690'
+    url: http://www.gutenberg.org/2009/agents/690
+  - agent_name: Truth, Sojourner
+    aliases:
+    - Van Wagener, Isabella
+    - Van Wagenen, Isabella
+    - Baumfree, Isabella
+    birthdate: 1797
+    deathdate: 1883
+    gutenberg_agent_id: '689'
+    url: http://www.gutenberg.org/2009/agents/689
+    wikipedia: http://en.wikipedia.org/wiki/Sojourner_Truth
+description: Slavery
+gutenberg_issued: '1999-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African American abolitionists -- Biography'
+- !lcsh 'Truth, Sojourner, -1883'
+- !lcsh 'Abolitionists -- United States -- Biography'
+- !lcsh 'Social reformers -- United States -- Biography'
+- !lcsh 'African Americans -- Biography'
+- !lcc 'E151'
+title: The Narrative of Sojourner Truth
+url: http://www.gutenberg.org/ebooks/1674

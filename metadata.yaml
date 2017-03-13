@@ -1,5 +1,8 @@
 _repo: The-Narrative-of-Sojourner-Truth_1674
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Gilbert, Olive
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/689
     wikipedia: http://en.wikipedia.org/wiki/Sojourner_Truth
 description: Slavery
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1674#The-Narrative-of-Sojourner-Truth
 gutenberg_issued: '1999-03-01'
 gutenberg_type: Text
 identifiers:

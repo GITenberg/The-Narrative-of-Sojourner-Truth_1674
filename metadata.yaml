@@ -1,5 +1,5 @@
 _repo: The-Narrative-of-Sojourner-Truth_1674
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -36,5 +36,6 @@ subjects:
 - !lcsh 'Social reformers -- United States -- Biography'
 - !lcsh 'African Americans -- Biography'
 - !lcc 'E151'
+- GITenberg
 title: The Narrative of Sojourner Truth
 url: http://www.gutenberg.org/ebooks/1674
